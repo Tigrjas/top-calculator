@@ -35,6 +35,8 @@ body {
   border-radius: 5px;
   text-align: right;
   min-height: 3rem;
+  white-space: nowrap;
+  overflow-x: auto;
 }
 
 .buttons {
